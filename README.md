@@ -31,6 +31,11 @@ P.S.: You need to [buy the Powerpack](https://buy.alfredapp.com/) to use this wo
 - Spread the word
 - Reach out with any feedback ![Twitter Follow](https://img.shields.io/twitter/follow/vinayw?style=social)
 
+
+## 💬 In Other News
+
+- This workflow made it to [appsntips](https://www.appsntips.com/home/best-alfred-workflows) favourite workflows list!
+
 ## 🏅 License
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
